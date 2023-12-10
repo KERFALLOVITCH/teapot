@@ -1,0 +1,12 @@
+{
+  "name": "teapot",
+  "version": "0.0.0",
+  "description": "Imitating the behavior of a teapot to learn JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergey Murzin <atlant-t@bk.ru>",
+  "license": "GPL-2.0"
+}
